@@ -1,4 +1,4 @@
-### Magic Hand! A Computer Vision Mini Project (HAND)
+### Magic Hands! A Computer Vision Mini Project (HAND)
 </br>
 </br>
 
