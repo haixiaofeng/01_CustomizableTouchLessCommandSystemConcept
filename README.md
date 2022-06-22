@@ -1,3 +1,4 @@
+</br>
 ### bindOI: Concept Operating Interface For the Visually Impaired
 </br>
 </br>
@@ -25,6 +26,7 @@ A Long/Short-Term Memory (LSTM) Neural Network is used for training. Please refe
 
 #### Current Results
 The current test accuray is very close to 1 but is less robust in a practical sense as it handels transitions between commands less well (i.e. confusion or slow recognition between commands)
+</br>
 </br>
 </br>
 
