@@ -3,13 +3,13 @@
 </br>
 
 #### Code & Files
-- [Code folder]()
-- [Data foler]()
-- [Model folder]()
+- [Code folder](https://drive.google.com/drive/folders/1yUbV3VjX3Jasnvd_OFGMxiV0u8tXPYp6?usp=sharing)
+- [Data foler](https://drive.google.com/drive/folders/1dTroHtgS9cep5CFhvXOFp-z-8uQaxCka?usp=sharing)
+- [Model folder](https://drive.google.com/drive/folders/1iO76YteRA0e2U6wuBDHDtrucM66aWJhu?usp=sharing)
 </br>
 
 #### Motivation
-Provide a concept to a more user-friendly Operation Interface (OI) for the visually impaired to operate differnt (all) forms of computers. A that does not require 
+Computers that require operation through direct touch with the devices create an extra layer of inconvenience for the visually impaired. Developing a concept for a more user-friendly Operation Interface (OI) leverging existing computer vision technologies without the need for direct mannual controls yeilds a better use case for these population. Such an OI may also be extended to more advanced use cases as the world moves into the era of VR/AR. 
 </br>
 </br>
 
