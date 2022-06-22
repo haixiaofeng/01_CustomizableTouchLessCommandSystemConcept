@@ -1,6 +1,6 @@
 </br>
 
-### bindOI: Concept Operation Interface Concept For the Visually Impaired
+### bindOI: Operation Interface Concept For the Visually Impaired
 </br>
 </br>
 
