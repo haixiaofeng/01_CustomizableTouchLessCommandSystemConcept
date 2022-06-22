@@ -13,6 +13,11 @@ Computers that require operation through direct touch with the devices create an
 </br>
 </br>
 
+#### Algorithm
+- Long/Short-Term Memory (LSTM)
+</br>
+</br>
+
 #### Version History
 - Version 1: Minimum working pipeline (utilities, data collection, modeling, training, evaluation, and live demo) with demonstrable but suboptimal performance
 </br>
@@ -21,6 +26,3 @@ Computers that require operation through direct touch with the devices create an
 - Version 2: Collect more variations of training data to incorporate more shapes & sizes of bodies and hands to improve action recognition accuracy
 - Version 3: Further refine training data and model to improve action recognition _efficiency_ (i.e. how long it takes to make an accurate prediction)
 </br>
-
-#### Algorithm
-- Long/Short-Term Memory (LSTM)
