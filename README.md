@@ -1,7 +1,7 @@
 </br>
 
-### bindOI:
-#### Operating Interface Concept For the Visually Impaired
+### IAA:
+#### Custom Touch-Less User Interface Concept (Deep Learning / Computer Vision)
 </br>
 </br>
 
