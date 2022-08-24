@@ -1,7 +1,7 @@
 </br>
 
 ### IAA:
-#### Custom Touch-Less User Interface Concept (Deep Learning / Computer Vision)
+#### Customizable Touch-Less Command System Concept (Deep Learning / Computer Vision)
 </br>
 </br>
 
